@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biblia</string>
+    <string name="matthew">Mateo</string>
+    <string name="mark">Marcos</string>
+    <string name="luke">Lucas</string>
+    <string name="john">Juan</string>
+    <string name="acts">Hechos</string>
+    <string name="romans">Romanos</string>
+    <string name="corinthians1">1ª Corintios</string>
+    <string name="corinthians2">2ª Corintios</string>
+    <string name="galatians">Gálatas</string>
+    <string name="ephesians">Efesios</string>
+    <string name="philippians">Filipenses</string>
+    <string name="colossians">Colosenses</string>
+    <string name="thessalonians1">1ª Tesalonicenses</string>
+    <string name="thessalonians2">2ª Tesalonicenses</string>
+    <string name="timothy1">1ª Timoteo</string>
+    <string name="timothy2">2ª Timoteo</string>
+    <string name="titus">Tito</string>
+    <string name="philemon">Filemón</string>
+    <string name="hebrews">Hebreos</string>
+    <string name="james">Santiago</string>
+    <string name="peter1">1ª Pedro</string>
+    <string name="peter2">2ª Pedro</string>
+    <string name="john1">1ª Juan</string>
+    <string name="john2">2ª Juan</string>
+    <string name="john3">3ª Juan</string>
+    <string name="jude">Judas</string>
+    <string name="revelation">Apocalipsis</string>
+</resources>

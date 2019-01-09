@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Bible</string>
+    <string name="matthew">Matthew</string>
+    <string name="mark">Mark</string>
+    <string name="luke">Luke</string>
+    <string name="john">John</string>
+    <string name="acts">Acts</string>
+    <string name="romans">Romans</string>
+    <string name="corinthians1">1st Corinthians</string>
+    <string name="corinthians2">2nd Corinthians</string>
+    <string name="galatians">Galatians</string>
+    <string name="ephesians">Ephesians</string>
+    <string name="philippians">Philippians</string>
+    <string name="colossians">Colossians</string>
+    <string name="thessalonians1">1st Thessalonians</string>
+    <string name="thessalonians2">2nd Thessalonians</string>
+    <string name="timothy1">1st Timothy</string>
+    <string name="timothy2">2nd Timothy</string>
+    <string name="titus">Titus</string>
+    <string name="philemon">Philemon</string>
+    <string name="hebrews">Hebrews</string>
+    <string name="james">James</string>
+    <string name="peter1">1st Peter</string>
+    <string name="peter2">2nd Peter</string>
+    <string name="john1">1st John</string>
+    <string name="john2">2nd John</string>
+    <string name="john3">3rd John</string>
+    <string name="jude">Jude</string>
+    <string name="revelation">Revelation</string>
+</resources>

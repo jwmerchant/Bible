@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bookName">
+        <item>matthew</item>
+        <item>matthew</item>
+        <item>mark</item>
+        <item>luke</item>
+        <item>john</item>
+        <item>acts</item>
+        <item>romans</item>
+        <item>corinthians1</item>
+        <item>corinthians2</item>
+        <item>galatians</item>
+        <item>ephesians</item>
+        <item>philippians</item>
+        <item>colossians</item>
+        <item>thessalonians1</item>
+        <item>thessalonians2</item>
+        <item>timothy1</item>
+        <item>timothy2</item>
+        <item>titus</item>
+        <item>philemon</item>
+        <item>hebrews</item>
+        <item>james</item>
+        <item>peter1</item>
+        <item>peter2</item>
+        <item>john1</item>
+        <item>john2</item>
+        <item>john3</item>
+        <item>jude</item>
+        <item>revelation</item>
+    </string-array>
+    <integer-array name="chapterCount">
+        <item>28</item>
+        <item>16</item>
+        <item>24</item>
+        <item>21</item>
+        <item>28</item>
+        <item>16</item>
+        <item>16</item>
+        <item>13</item>
+        <item>6</item>
+        <item>6</item>
+        <item>4</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+        <item>6</item>
+        <item>4</item>
+        <item>3</item>
+        <item>1</item>
+        <item>13</item>
+        <item>5</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>22</item>
+    </integer-array>
+</resources>

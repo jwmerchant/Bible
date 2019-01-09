@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    tools:context=".MainActivity">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:id="@+id/bookList"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/matthew"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/matthew"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/mark"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/mark"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/luke"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/luke"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/john"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/john"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/acts"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/acts"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/romans"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/romans"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/corinthians1"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/corinthians1"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/corinthians2"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/corinthians2"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/galatians"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/galatians"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/ephesians"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/ephesians"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/philippians"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/philippians"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/colossians"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/colossians"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/thessalonians1"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/thessalonians1"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/thessalonians2"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/thessalonians2"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/timothy1"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/timothy1"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/timothy2"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/timothy2"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/titus"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/titus"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/philemon"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/philemon"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/hebrews"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/hebrews"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/james"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/james"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/peter1"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/peter1"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/peter2"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/peter2"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/john1"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/john1"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/john2"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/john2"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/john3"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/john3"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/jude"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/jude"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/revelation"
+                android:layout_width="match_parent"
+                android:layout_height="72dp"
+                android:onClick="clickHandler"
+                android:text="@string/revelation"
+                android:textAllCaps="false"
+                android:textSize="24sp" />
+        </LinearLayout>
+    </ScrollView>
+    <![CDATA[
+
+    =
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Button" />
+]]>
+</android.support.constraint.ConstraintLayout>
